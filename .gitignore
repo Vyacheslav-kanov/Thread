@@ -8,4 +8,5 @@ target/
 
 #Gradle
 .gradle/
+build/
 out/
